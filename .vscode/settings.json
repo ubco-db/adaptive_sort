@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "adaptive_sort.h": "c",
-        "in_memory_sort.h": "c"
-    }
-}
