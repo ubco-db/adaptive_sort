@@ -8,7 +8,7 @@ The adaptive sort has the following benefits:
 
 1. Minimum memory usage is only two page buffers. The memory usage is less than 1.5 KB for 512 byte pages.
 2. No use of dynamic memory (i.e. malloc()). 
-3. Easy to use and include in existing projects. Requires only an Arduino with an SD card.
+3. Easy to use and include in existing projects. 
 4. Open source license. Free to use for commerical and open source projects.
 
 ## License
